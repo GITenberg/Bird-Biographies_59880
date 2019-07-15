@@ -1,0 +1,31 @@
+_repo: Bird-Biographies_59880
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Horsfall, R. Bruce (Robert Bruce)
+    aliases:
+    - Horsfall, Bruce
+    - Horsfall, Robert Bruce
+    birthdate: 1869
+    deathdate: 1948
+    gutenberg_agent_id: '2143'
+    url: http://www.gutenberg.org/2009/agents/2143
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Bruce_Horsfall
+creator:
+  author:
+    agent_name: Ball, Alice E.
+    gutenberg_agent_id: '50673'
+    url: http://www.gutenberg.org/2009/agents/50673
+description: ''
+gutenberg_issued: '2019-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59880'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Bird Biographies
+url: http://www.gutenberg.org/ebooks/59880
